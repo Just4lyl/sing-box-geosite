@@ -4,6 +4,8 @@
       "domain": [
         "ai.com",
         "anthropic.com",
+        "api.msn.com",
+        "assets.msn.com",
         "bing.com",
         "bingapis.com",
         "cdn.oaistatic.com",
@@ -11,7 +13,11 @@
         "chatgpt.com",
         "claude.ai",
         "copilot.microsoft.com",
+        "dealczars.bing-shopping.microsoft-falcon.io",
+        "gateway.bingviz.microsoftapp.net",
         "gemini.google.com",
+        "location.microsoft.com",
+        "login.microsoftonline.com",
         "meta.ai",
         "o33249.ingest.sentry.io",
         "oaistatic.com",
@@ -21,7 +27,11 @@
         "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
         "openaicomproductionae4b.blob.core.windows.net",
         "perplexity.ai",
-        "production-openaicom-storage.azureedge.net"
+        "production-openaicom-storage.azureedge.net",
+        "sapphire.api.microsoftapp.net",
+        "self.events.data.microsoft.com",
+        "services.bingapis.com",
+        "shopping.bing-shopping.microsoft-falcon.io"
       ]
     },
     {
