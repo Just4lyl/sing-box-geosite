@@ -4,25 +4,13 @@
       "domain": [
         "ai.com",
         "anthropic.com",
-        "api.msn.com",
-        "apis.google.com",
-        "assets.msn.com",
-        "bing.com",
-        "bingapis.com",
         "cdn.oaistatic.com",
         "chat.openai.com.cdn.cloudflare.net",
         "chatgpt.com",
         "claude.ai",
-        "colab.research.google.com",
-        "content-developerprofiles-pa.googleapis.com",
         "copilot.microsoft.com",
         "gemini.google.com",
-        "generativelanguage.googleapis.com",
-        "location.microsoft.com",
-        "login.microsoftonline.com",
         "meta.ai",
-        "microsoft-falcon.io",
-        "microsoftapp.net",
         "o33249.ingest.sentry.io",
         "oaistatic.com",
         "oaiusercontent.com",
@@ -31,28 +19,26 @@
         "openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net",
         "openaicomproductionae4b.blob.core.windows.net",
         "perplexity.ai",
-        "production-openaicom-storage.azureedge.net",
-        "self.events.data.microsoft.com"
+        "proactivebackend-pa.googleapis.com",
+        "production-openaicom-storage.azureedge.net"
       ]
     },
     {
       "domain_suffix": [
         ".ai.com",
         ".anthropic.com",
-        ".bing.com",
-        ".bingapis.com",
         ".cdn.oaistatic.com",
         ".chatgpt.com",
         ".claude.ai",
+        ".copilot.microsoft.com",
         ".gemini.google.com",
         ".meta.ai",
-        ".microsoft-falcon.io",
-        ".microsoftapp.net",
         ".o33249.ingest.sentry.io",
         ".oaistatic.com",
         ".oaiusercontent.com",
         ".openai.com",
-        ".perplexity.ai"
+        ".perplexity.ai",
+        ".proactivebackend-pa.googleapis.com"
       ]
     }
   ],
