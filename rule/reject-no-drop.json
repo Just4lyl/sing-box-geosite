@@ -1,4 +1,17 @@
 {
-  "rules": [],
+  "rules": [
+    {
+      "domain": [
+        "mcdn.bilivideo.cn",
+        "p2p.huya.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        ".mcdn.bilivideo.cn",
+        ".p2p.huya.com"
+      ]
+    }
+  ],
   "version": 1
 }
